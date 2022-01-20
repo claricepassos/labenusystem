@@ -1,6 +1,6 @@
 
 
-## Projeto LabenuSystem4
+## Projeto LabenuSystem4 - Produzido para o curso de formação em desenvolvimento full stack da Labenu
 
 ## Desenvolvedores
 
